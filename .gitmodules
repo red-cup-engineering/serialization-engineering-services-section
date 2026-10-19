@@ -1,0 +1,24 @@
+[submodule "yaml-file-services-section"]
+	path = services/yaml-file-services-section
+	url = https://github.com/red-cup-engineering/yaml-file-services-section.git
+	branch = main
+[submodule "xml-file-services-section"]
+	path = services/xml-file-services-section
+	url = https://github.com/red-cup-engineering/xml-file-services-section.git
+	branch = main
+[submodule "toml-file-services-section"]
+	path = services/toml-file-services-section
+	url = https://github.com/red-cup-engineering/toml-file-services-section.git
+	branch = main
+[submodule "rdf-file-services-section"]
+	path = services/rdf-file-services-section
+	url = https://github.com/red-cup-engineering/rdf-file-services-section.git
+	branch = main
+[submodule "json-file-services-section"]
+	path = services/json-file-services-section
+	url = https://github.com/red-cup-engineering/json-file-services-section.git
+	branch = main
+[submodule "html-services-section"]
+	path = services/html-services-section
+	url = https://github.com/red-cup-engineering/html-services-section.git
+	branch = main
