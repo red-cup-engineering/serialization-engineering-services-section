@@ -3,5 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "description": "Proof-path section for decoded and encoded flatfile serializations."
+  "description": "Proof-path section for decoded and encoded flatfile serializations.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/red-cup-engineering/serialization-services-section.git"
+  }
 }
