@@ -20,5 +20,5 @@
 	branch = main
 [submodule "html-services-section"]
 	path = services/html-services-section
-	url = https://github.com/red-cup-engineering/html-services-section.git
+	url = https://github.com/red-cup-engineering/html-engineering-services-section.git
 	branch = main
