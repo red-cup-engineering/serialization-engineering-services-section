@@ -10,3 +10,5 @@
 This section restricts flatfiles to representations whose text and data values
 are connected by an explicit decoder and encoder. Each format child owns the
 one canonical codec implementation for that serialization proof.
+
+The [HTML Engineering checkout](../../../../../computer-content-engineering-services-section/services/computer-serialized-content-engineering-services-section/services/html-engineering-services-section/) contains the implementation.

@@ -18,7 +18,3 @@
 	path = services/json-file-services-section
 	url = https://github.com/red-cup-engineering/json-file-engineering-services-section.git
 	branch = main
-[submodule "html-services-section"]
-	path = services/html-services-section
-	url = https://github.com/red-cup-engineering/html-engineering-services-section.git
-	branch = main
